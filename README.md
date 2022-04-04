@@ -27,7 +27,7 @@ In the healthcare sector, with improved correct testing of patients, my project 
 <!-- CREDITS -->
 <h2 id="credits"> :scroll: Credits</h2>
 
-< Sakshi Dhyani > | Avid Learner | Data Scientist | Machine Learning Engineer | Deep Learning enthusiast
+ Sakshi Dhyani  | Avid Learner | Data Scientist | Machine Learning Engineer | Deep Learning enthusiast
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshi-dhyani/)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sakshidhyani/)
