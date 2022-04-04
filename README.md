@@ -17,9 +17,9 @@ An ongoing cardiovascular study on residents on the town of Framingham, Massachu
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<h2>Objective></h2>
+<h2>Objective</h2>
 <p>
-In the healthcare sector, with improved correct testing of patients, my project could help doctors to treat patients and prevent them from diseases. If one knows that they are at risk of having a disease in the coming years, they would surely take precautionary measures or treatment as guided by doctors. Also, the interpretable machine learning models will provide doctors with more clarity and help them to understand the impact of various features on the target variable. This makes these models more reliable in the health care sector due to the power of interpretability.
+In the healthcare sector, with improved correct testing of patients, my project could help doctors to treat patients and prevent them from diseases. If one knows that they are at risk of having a disease in the coming years, they would surely take precautionary measures or treatment as guided by doctors.Also, the implemented interpretable machine learning models will provide doctors with more clarity and help them to understand the impact of various features on the target variable. This makes interpretable models more reliable in the health care sector due to the power of interpretability.
 </p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
